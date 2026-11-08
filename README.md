@@ -1,4 +1,4 @@
-## Sophia Hudelist
+# Sophia Hudelist
 
 ## Speech & Language Data Processing | NLP Research & Prototyping
 
