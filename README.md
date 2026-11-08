@@ -1,3 +1,5 @@
+## Sophia Hudelist
+
 ## Speech & Language Data Processing | NLP Research & Prototyping
 
 I help turn language data into useful insights and practical tools. With a First-Class BSc in Linguistics from the University of York, I combine linguistic expertise with data analysis, Python development, and applied AI research.
